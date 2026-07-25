@@ -4,6 +4,7 @@ ChatGPT
 Google Gemini
 
 Question 1
+
 Prompt
 Explain the applications of Artificial Intelligence in healthcare in about 150 words.
 ChatGPT Answer
@@ -12,6 +13,7 @@ Google Gemini Answer
 Artificial Intelligence is widely used in healthcare to improve medical diagnosis and patient treatment. AI systems assist doctors by analyzing patient records and medical images quickly and accurately. They are used in robotic surgery, drug development, and disease prediction. AI chatbots provide basic medical guidance and appointment scheduling. Wearable devices use AI to track health conditions such as heart rate and sleep patterns. Hospitals use AI for managing patient records and predicting future healthcare needs. AI helps reduce errors, saves time, and improves the quality of medical services.
 
 Question 2
+
 Prompt
 Write a Python program to find the factorial of a number using recursion with explanation.
 ChatGPT Answer
@@ -37,6 +39,7 @@ Explanation:
 The recursive function keeps reducing the value by one until it reaches 1. The multiplication is performed while returning from each recursive call.
 
 Question 3
+
 Prompt
 Summarize the importance of renewable energy in about 100 words.
 ChatGPT Answer
@@ -45,6 +48,7 @@ Google Gemini Answer
 Renewable energy is an environmentally friendly source of power obtained from natural resources like the sun, wind, and water. It reduces pollution and greenhouse gas emissions while conserving fossil fuels. Renewable energy improves energy security, creates jobs, and supports sustainable economic growth. Increasing the use of renewable energy helps combat climate change and ensures cleaner energy for future generations.
 
 Question 4
+
 Prompt
 Write a professional email requesting two days of leave due to illness.
 ChatGPT Answer
@@ -70,6 +74,7 @@ Regards,
 Ananya Sri
 
 Question 5
+
 Prompt
 Compare Machine Learning and Deep Learning in a tabular format with five differences.
 ChatGPT Answer
