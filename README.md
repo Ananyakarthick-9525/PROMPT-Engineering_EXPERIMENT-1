@@ -1,93 +1,69 @@
-Experiment 1: Comparison of AI Tools Using Prompt Engineering
-AI Tools Used
-ChatGPT
-Google Gemini
+Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
 
-Question 1
+Experiment: Develop a comprehensive report for the following exercises:
 
-Prompt
-Explain the applications of Artificial Intelligence in healthcare in about 150 words.
-ChatGPT Answer
-Artificial Intelligence (AI) is transforming healthcare by improving diagnosis, treatment, and patient care. AI-powered systems can analyze medical images such as X-rays, CT scans, and MRIs to detect diseases like cancer at an early stage. Virtual assistants help patients schedule appointments, answer health-related questions, and remind them to take medications. AI also supports robotic surgeries, making procedures more precise and reducing recovery time. Hospitals use AI to predict patient admissions, manage resources efficiently, and improve overall healthcare services. In drug discovery, AI speeds up the identification of potential medicines, reducing research time and costs. Wearable devices equipped with AI monitor heart rate, blood pressure, and oxygen levels, enabling early detection of health issues. Overall, AI enhances healthcare quality, reduces human errors, and improves patient outcomes.
-Google Gemini Answer
-Artificial Intelligence is widely used in healthcare to improve medical diagnosis and patient treatment. AI systems assist doctors by analyzing patient records and medical images quickly and accurately. They are used in robotic surgery, drug development, and disease prediction. AI chatbots provide basic medical guidance and appointment scheduling. Wearable devices use AI to track health conditions such as heart rate and sleep patterns. Hospitals use AI for managing patient records and predicting future healthcare needs. AI helps reduce errors, saves time, and improves the quality of medical services.
+  1. Explain the foundational concepts of Generative AI, Generative Model and it's types.
+  2. 2024 AI tools.
+  3. Explain what an LLM is and how it is built.
+  4. Create a Timeline Chart for defining the Evolution of AI
+     
+Algorithm:
 
-Question 2
+Step 1: Define Scope and Objectives
+  1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 
-Prompt
-Write a Python program to find the factorial of a number using recursion with explanation.
-ChatGPT Answer
-def factorial(n):
-    if n == 0 or n == 1:
-        return 1
-    return n * factorial(n - 1)
+  1.2 Set the target audience level (e.g., students, professionals)
 
-num = int(input("Enter a number: "))
-print("Factorial =", factorial(num))
-Explanation:
-The function calls itself until the value becomes 1 or 0. This is known as recursion. Each recursive call multiplies the current number with the factorial of the previous number until the base case is reached.
-Google Gemini Answer
-def fact(n):
-    if n <= 1:
-        return 1
-    else:
-        return n * fact(n - 1)
+  1.3 Draft a list of core topics to cover
 
-number = int(input("Enter Number: "))
-print(fact(number))
-Explanation:
-The recursive function keeps reducing the value by one until it reaches 1. The multiplication is performed while returning from each recursive call.
+Step 2: Create Report Skeleton/Structure
 
-Question 3
+  2.1 Title Page
 
-Prompt
-Summarize the importance of renewable energy in about 100 words.
-ChatGPT Answer
-Renewable energy comes from natural sources such as sunlight, wind, water, and biomass. Unlike fossil fuels, these resources are sustainable and produce less pollution. Renewable energy helps reduce greenhouse gas emissions, slowing climate change and improving air quality. It also decreases dependence on non-renewable resources and enhances energy security. The growth of renewable energy creates employment opportunities in manufacturing, installation, and maintenance. By investing in renewable energy, countries can achieve sustainable development while protecting the environment for future generations.
-Google Gemini Answer
-Renewable energy is an environmentally friendly source of power obtained from natural resources like the sun, wind, and water. It reduces pollution and greenhouse gas emissions while conserving fossil fuels. Renewable energy improves energy security, creates jobs, and supports sustainable economic growth. Increasing the use of renewable energy helps combat climate change and ensures cleaner energy for future generations.
+  2.2 Abstract or Executive Summary
 
-Question 4
+  2.3 Table of Contents
 
-Prompt
-Write a professional email requesting two days of leave due to illness.
-ChatGPT Answer
-Subject: Leave Request Due to Illness
-Dear Sir/Madam,
+  2.4 Introduction
 
-I am writing to request leave for two days as I am suffering from illness and have been advised to take rest. I kindly request you to grant me leave from 10 July 2026 to 11 July 2026. I will complete any pending work after I return.
+  2.5 Main Body Sections:
 
-Thank you for your understanding.
+  • Introduction to AI and Machine Learning
 
-Yours sincerely,
-Ananya Sri
+  • What is Generative AI?
 
-Google Gemini Answer
-Subject: Leave Application
-Dear Sir,
+  • Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models)
 
-Due to health issues, I am unable to attend work for the next two days. I request you to kindly approve my leave. I will resume work once I recover.
+  • Introduction to Large Language Models (LLMs)
 
-Thank you.
+  • Architecture of LLMs (e.g., Transformer, GPT, BERT)
 
-Regards,
-Ananya Sri
+  • Training Process and Data Requirements
 
-Question 5
+  • Use Cases and Applications (Chatbots, Content Generation, etc.)
 
-Prompt
-Compare Machine Learning and Deep Learning in a tabular format with five differences.
-ChatGPT Answer
-Machine Learning	Deep Learning
-Requires manual feature extraction	Learns features automatically
-Works well with small datasets	Requires large datasets
-Faster training	Longer training time
-Simpler algorithms	Complex neural networks
-Easier to interpret	Difficult to interpret
-Google Gemini Answer
-Machine Learning	Deep Learning
-Human-designed features	Automatic feature learning
-Less computational power	High computational power
-Suitable for structured data	Suitable for images, audio, and text
-Faster model training	Slower model training
-Easier implementation	More complex implementation
+  • Limitations and Ethical Considerations
+
+  • Future Trends
+
+2.6 Conclusion
+
+2.7 References
+
+Step 3: Research and Data Collection
+
+3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI) 3.2 Extract definitions, explanations, diagrams, and examples 3.3 Cite all sources properly
+
+Step 4: Content Development 4.1 Write each section in clear, simple language 4.2 Include diagrams, figures, and charts where needed 4.3 Highlight important terms and definitions 4.4 Use examples and real-world analogies for better understanding
+
+Step 5: Visual and Technical Enhancement 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4) 5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting 5.3 Add code snippets or pseudocode for LLM working (optional)
+
+Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ensure logical flow and consistency 6.3 Validate technical accuracy 6.4 Peer-review or use tools like Grammarly or ChatGPT for suggestions
+
+Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
+
+
+Output:
+Output: https://i.supaimg.com/9bdf4ca7-9d39-4583-bbcb-ef90db5d21be/25c13ba0-ae08-4ed8-9973-2467f53fdbe1.jpg https://i.supaimg.com/9bdf4ca7-9d39-4583-bbcb-ef90db5d21be/a56d5895-b319-40e9-9db0-4e26ecac73e2.jpg
+
+Result:
